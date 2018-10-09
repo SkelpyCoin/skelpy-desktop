@@ -1,7 +1,7 @@
 # Skelpy Desktop Wallet
 
 <p align="center">
-    <img src="./banner.png" />
+    <img src="./banner.jpg" />
 </p>
 
 [![Github Latest Release](https://badgen.now.sh/github/release/SkelpyCoin/skelpy-desktop)](https://github.com/SkelpyCoin/skelpy-desktop/releases/latest)
