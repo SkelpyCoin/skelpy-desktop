@@ -1,4 +1,4 @@
-# SKP Desktop Wallet
+# Skelpy Desktop Wallet
 
 <p align="center">
     <img src="./banner.png" />
