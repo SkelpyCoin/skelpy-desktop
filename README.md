@@ -74,16 +74,5 @@ brew bundle
 * Gcc4.8: ```apt-get install gcc-4.8 g++-4.8 && export CXX=g++-4.8```
 * libusb-1.0.0 headers: ```sudo apt-get install libusb-1.0.0 libusb-1.0.0-dev```
 
-
-## Contributing
-Read more about the [Developer Bounty Programme](https://www.skelpy.co/developer-bounty-programme) to learn about how to contribute to this project.
-
-## Authors
-- [Raj Singh](https://github.com/cyrus19901)
-- [Brandon Cook](https://github.com/locohammerhead)
-- [FX Thoorens](https://github.com/fix)
-- [Guillaume Verbal](https://github.com/Doweig)
-- [All Contributors](../../contributors)
-
 ## License
 [MIT](LICENSE) © [Skelpy](http://skelpy.co)
