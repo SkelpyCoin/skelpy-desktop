@@ -7,7 +7,7 @@
 [![Github Latest Release](https://badgen.now.sh/github/release/SkelpyCoin/skelpy-desktop)](https://github.com/SkelpyCoin/skelpy-desktop/releases/latest)
 [![Github Downloads](https://badgen.now.sh/github/assets-dl/SkelpyCoin/skelpy-desktop)](https://github.com/SkelpyCoin/skelpy-desktop/releases/latest)
 [![License: MIT](https://badgen.now.sh/badge/license/MIT)](https://opensource.org/licenses/MIT)
-
+ 
 ## Features
 * Available on ***Windows***, ***Linux*** (Ubuntu/Debian) and ***macOS*** (signed)
 * No need to download SKP blockchain, just sync to the network: launch and use within seconds
