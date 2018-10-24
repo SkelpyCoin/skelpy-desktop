@@ -28,7 +28,7 @@
 * Easy to update - download latest version, start installation program and it will automatically remove previous version and install new one
 * Second signature supported
 * **SAVE YOUR PASSPHRASE(S) - if you lose it, you lose access to that particular SKP address(es). There is no forgot my password option with blockchains and no one can help you retrieve it!**
-
+ 
 ## Installation
 
 ### Download
