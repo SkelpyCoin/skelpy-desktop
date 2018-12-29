@@ -90,14 +90,14 @@
       n = storageService.getGlobal('networks')
       if (!n) {
         n = {
-          testnet: {
-            nethash: 'ea28576ec4ddda11e09b8e1b3cfbe41485da89fcd6d776e409b688004cdbe036',
-            peerseed: 'http://51.75.27.22:4001',
-            token: 'TSKELPY',
-            symbol: 'TƧ',
-            version: 0x52,
+          mainnet: {
+            nethash: 'f24b53b1617ba362b419a64861afcec1b066d2798e77571b5cdb91303530d412',
+            peerseed: 'http://node.skelpy.co',
+            token: 'SKELPY',
+            symbol: 'Ƨ',
+            version: 0x17,
             slip44: 1, // all coin testnet
-            explorer: 'http://texplorer.skelpy.co',
+            explorer: 'http://explorer.skelpy.co',
             background: 'url(assets/images/images/SKP_background3.jpg) no-repeat ',
             theme: 'default',
             themeDark: false
