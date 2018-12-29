@@ -24,7 +24,7 @@ xdescribe('Select network', function () {
 
   context('when selecting the same network', () => {
     beforeEach(function () {
-      return this.app.client.selectNetwork('TESTNET (TESTSKP)')
+      return this.app.client.selectNetwork('MAINNET (SKP)')
     })
   })
 
